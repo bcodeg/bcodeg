@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @bcodeg
 - 👀 I’m interested in HTML,CSS,JAVASCRİPT
 - 🌱 I’m currently learning JAVASCRİPT <br>
+- <br>
 ![Profile views](https://gpvc.arturio.dev/bcodeg)
 
 <!---
