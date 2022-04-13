@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @bcodeg
 - 👀 I’m interested in HTML,CSS,JAVASCRİPT
 - 🌱 I’m currently learning JAVASCRİPT
-
+![Profile views](https://gpvc.arturio.dev/bcodeg)
 
 <!---
 bcodeg/bcodeg is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
